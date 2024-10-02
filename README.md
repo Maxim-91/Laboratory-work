@@ -4,3 +4,6 @@ They include student admission to conduct an experiment using testing tools. The
 The software products include a report printing function and info support.
 
 The programs require additional installation of Borland Database Engine, since the programs also work using databases.
+
+Conductors - Experimental testing of the density of electrical support of metal conductors depending on temperature.
+
