@@ -7,3 +7,5 @@ The programs require additional installation of Borland Database Engine, since t
 
 Conductors - Experimental testing of the density of electrical support of metal conductors depending on temperature.
 
+Contact phenomena - Experimental study of the duration of thermal destruction force as a function of the difference in temperature of the junctions.
+
