@@ -9,3 +9,4 @@ Conductors - Experimental testing of the density of electrical support of metal 
 
 Contact phenomena - Experimental study of the duration of thermal destruction force as a function of the difference in temperature of the junctions.
 
+Thermistors - Experimental study of semiconductor properties based on the study of nonlinear resistors.
